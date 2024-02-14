@@ -1,2 +1,0 @@
-# DatasAlgarithmas
-Datas and Algorithmas
