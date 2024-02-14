@@ -1,4 +1,4 @@
-# Week 1 - Memory
+# Week 1 - Memory Testing
 
 ## Team
 
